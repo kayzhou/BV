@@ -2,6 +2,8 @@ import streamlit as st
 import pandas as pd
 
 # Day 1
+st.write('今天是研究生一年级下学期第13周的周三！')
+
 
 # Day 2
 st.write('Hello world!')
